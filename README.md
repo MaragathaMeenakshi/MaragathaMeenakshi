@@ -1,5 +1,7 @@
-### Hi there 👋
 ![Maragatha Meenakshi](https://github.com/MaragathaMeenakshi/MaragathaMeenakshi/assets/113226919/9f383bb6-9834-4714-a9d9-6daba8ec65e2)
+
+### Hi there 👋
+
 I'm Maragatha Meenakshi, a recent graduate from Anna University with a degree in Computer Science and Engineering. I am passionate about frontend development and have experience working with React.js and Next.js.
 
 I am eager and enthusiastic about contributing to and working on more projects on GitHub. I have a solid foundation in React.js and Next.js, and I am passionate about learning and creating more projects related to my field.
